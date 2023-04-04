@@ -14,3 +14,4 @@ It display movie info if you click/tap in one movie.
 
 3 - select the platform you want to run
 
+![iosmulti](https://user-images.githubusercontent.com/46417651/229756801-dee85193-9442-4c23-8017-8a9596f0e036.gif)
