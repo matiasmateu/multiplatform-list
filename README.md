@@ -9,6 +9,8 @@ It display movie info if you click/tap in one movie.
 ## Usage
 
 1 - yarn
+
 2 - expo start
+
 3 - select the platform you want to run
 
